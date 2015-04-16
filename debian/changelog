@@ -1,0 +1,5 @@
+python-err (2.1.0) UNRELEASED; urgency=low
+
+  * Initial Debian packaging
+
+ -- Dr. Torge Szczepanek <debian@cygnusnetworks.de>  Thu, 16 Apr 2015 10:14:56 +0200

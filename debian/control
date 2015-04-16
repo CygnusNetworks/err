@@ -1,0 +1,16 @@
+Source: python-err
+Maintainer: Cygnus Networks GmbH <info@cygnusnetworks.de>
+Build-Depends: debhelper (>= 9), python, python-setuptools
+Priority: extra
+Section: net
+Standards-Version: 3.9.4
+X-Python-Version: >= 2.7
+
+Package: python-err
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Pluggable chatbot
+ Err is a plugin based chatbot designed to be easily deployable, extensible and
+ maintainable. It allows you to start scripts interactively from your chatrooms
+ for any reason: random humour, starting a build, monitoring commits,
+ triggering alerts... The possibilities are endless.

@@ -1,0 +1,9 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Name: python-err
+Maintainer: Cygnus Networks GmbH <info@cygnusnetworks.de>
+Source: https://github.com/gbin/err
+
+Files: *
+Copyright: 2013-2015, Guillaume Binet, Tali Davidovich Petrover and Nick Groenen
+Licence: GPLv3
+ See /usr/share/common-licenses/GPL-3
